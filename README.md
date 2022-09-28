@@ -3,11 +3,11 @@ Simple bash script to download doujins from nhentai without an account
 
 ## usage
 just run 
-./nhdl
+./nhdl.sh
 followed by the id you want to download (the 6 digit number at the end of the url)
 
 example:
-./nhdl 123456
+./nhdl.sh 123456
 
 your downloads will appear in a folder called "doujins".
 

@@ -1,4 +1,4 @@
-# nhdl
+# nhdl - nHentaiDownloader
 Simple bash script to download doujins from nhentai without an account
 
 ## usage

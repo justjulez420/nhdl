@@ -1,5 +1,5 @@
 # nhdl
-Simple bash script to download doujins from nhentai
+Simple bash script to download doujins from nhentai without an account
 
 ## usage
 just run 
